@@ -5,6 +5,10 @@ A place to keep track of my highlights on github (papers, projects, etc.)
 
 A repo that holds papers I have authored.
 
+[Twitch Viewer](https://github.com/maxrenke/twitch_viewer)
+
+Python script to integrate with Livestreamer and VLC on windows. Allows you to see which streamers that you follow are live and open up their broadcasts in VLC.
+
 [ComputeCoin](https://github.com/maxrenke/ComputeCoin)
 
 The goal of this project is to create a centralized digital currency backed by distributed computation for nonprofit organizations. A peer to peer mobile application, centralized distribution network, desktop application and computation-specific API will be created to develop a working proof of concept.
