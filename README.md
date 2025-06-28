@@ -1,45 +1,69 @@
 # Highlights
-A place to keep track of my highlights on github (papers, projects, etc.)
 
-[Papers](https://github.com/maxrenke/papers)
+Welcome! Here you'll find a curated list of my professional highlights, including published papers, patents, current projects, and key learnings. This overview demonstrates my skills, expertise, and commitment to continuous growth.
 
-A repo that holds papers I have authored.
+---
 
-[Twitch Viewer](https://github.com/maxrenke/twitch_viewer)
+## 🔬 Current Research
 
-Python script to integrate with Livestreamer and VLC on windows. Allows you to see which streamers that you follow are live and open up their broadcasts in VLC.
+- **TBD**  
+    
 
-[DeadmanPi](https://github.com/maxrenke/deadmanpi)
-This project was submitted to the [HackDartmouth III](hackdartmouth.io) event held on September 24 - 25, 2016.
+## 🚀 Current Projects
 
-The goal of this project is to use a **Raspberry Pi 3** board along with **GrovePi** sensors to create a **Node.js** server that has a hard-ware **DEADMAN** switch. If certain physical triggers are detected by the **Raspberry Pi** then the sever will delete all of the files on the server. Originally, this project was meant to interface with the document sharing API at [IntraLinks](https://developers.intralinks.com) but this project still serves as a proof of concept of a server with a physical **DEADMAN** switch attached.
+- **Twitch Viewer (https://github.com/maxrenke/twitch_viewer)**  
+    A Python script that retrieves your currently followed Twitch channels using the Twitch API, then allows you to select and play live streams directly in VLC Media Player via Streamlink. This tool streamlines the process of browsing and watching your favorite Twitch channels from the command line.
 
-This project was built with **Raspberry Pi 3**, **GrovePi Board**, **GrovePi Sensors**, **Node.js**, **Python**, and **Swagger.io**.
+---
 
-**Node.js** powers the server as well as the RESTful API (which is powered by **Swagger.io**)
+## 🕵️ Write-Ups
 
-**Python** powers the **DEADMAN** switch.
+- **TBD**  
 
+---
 
-[Politilt](https://github.com/maxrenke/politilt)
+## 🎄 Advent of Code Submissions
 
-POLI TILT is a Chrome Web Extension that is powered by the Indico political analysis API to determine the bias of a political news article. Scores include Liberal (left leaning), Moderate (relatively neutral), and Conservative (right leaning). This helpful for those who are "politically inebriated" and want to make sure they are getting the correct perspective of the political landscape. POLI TILT also has a backend MySQL database to store the articles as well as our analysis.
+A collection of my past Advent of Code solutions, showcasing problem-solving skills and proficiency in various programming languages.
 
-This project was completed during HackDartmouth II (Spring 2015).
-
-NOTE: Backend is no longer operational
-
-[ComputeCoin](https://github.com/maxrenke/ComputeCoin)
-
-The goal of this project is to create a centralized digital currency backed by distributed computation for nonprofit organizations. A peer to peer mobile application, centralized distribution network, desktop application and computation-specific API will be created to develop a working proof of concept.
-
-This project was completed during HackDartmouth II (Fall 2014).
+- **2023**  
+    [GitHub Repository](https://github.com/yourusername/aoc2023) – Solutions in Python and Rust.
 
 
-[Aviation](https://github.com/maxrenke/aviation)
 
-An iOS application for Aviation Museum of New Hampshire in Manchester, NH. The project completed during at 4 day hackathon at Dyn.
+## 📄 Papers
 
-[GPPC 2015](https://github.com/maxrenke/gppc-2015)
+- **[Speedy and Weighted A* Implementations for the Grid-Based Path-Planning Competition](https://maxrenke.com/gppc_2015_maxwell_renke.pdf)**
+    *University of New Hampshire, 2015*
 
-This repository contains my submission of Speedy and weighted A* algorithms to the GPPC in 2015
+    Developed and implemented Speedy and weighted A* algorithms as an entry for the Grid-Based Path Planning Competition (www.movingai.com/gppc) during my Introduction to Artificial Intelligence course. This project focused on optimizing pathfinding techniques for grid-based environments.
+
+- **[The Role of Alternative Currencies in the Global Market](https://maxrenke.com/bitcoin_research.pdf)**
+
+    *Budapeest, 2013*
+
+    I wrote a paper entitled The Role of Alternative Currencies in the Global Market which is an analysis of alternative currencies mainly focused on bitcoin. The paper was written for the Students’ Scientific Conference which I won Second Prize in the Economics category.
+
+
+---
+
+## 🛠️ Patents
+
+- **Using Secure Memory Enclaves From The Context Of Process Containers**
+
+    *11256785 · Issued Feb 22, 2022*  
+    Enables secure, partitioned memory enclaves within containers, providing attestable security. Streamlines enclave provisioning and attestation by linking container memory to host enclaves and allowing local validation of attestation reports, reducing reliance on remote services.
+
+- **System compliance based on a mix of hotpatches and coldpatches**  
+    *11403092 · Issued Jul 9, 2020*  
+    Enables compliance actions based on a policy that considers both hotpatch and coldpatch status of software components. Determines patching state using evidence from binaries, then enacts actions such as health reporting, patching, or execution control.
+
+---
+
+## 📚 Key Learnings
+
+- 
+
+---
+
+*For more details or to connect, please reach out via [LinkedIn](https://www.linkedin.com/in/maxrenke).*
