@@ -4,6 +4,12 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 
 ---
 
+## OSS Pull Requests
+
+- [feat: Add Ollama support for local hot take generation](https://github.com/Zoz24/hot-take-generator/pull/2#pullrequestreview-3025324043)
+
+---
+
 ## 🔬 Current Research
 
 - **TBD**  
@@ -67,3 +73,4 @@ A collection of my past Advent of Code solutions, showcasing problem-solving ski
 ---
 
 *For more details or to connect, please reach out via [LinkedIn](https://www.linkedin.com/in/maxrenke).*
+
