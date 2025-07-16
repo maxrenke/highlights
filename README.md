@@ -29,12 +29,14 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 
 ---
 
-## 🎄 Advent of Code Submissions
+## 🏆 Coding Practice Challenges
 
-A collection of my past Advent of Code solutions, showcasing problem-solving skills and proficiency in various programming languages.
+A collection of my solutions to various coding challenges, demonstrating problem-solving skills and proficiency in different programming languages.
 
-- **2023**  
+- **Advent of Code (2023)**  
     [GitHub Repository](https://github.com/yourusername/aoc2023) – Solutions in Python and Rust.
+- **LeetCode**  
+    [GitHub Repository](https://github.com/maxrenke/leetcode) – A variety of solutions to LeetCode problems.
 
 
 
