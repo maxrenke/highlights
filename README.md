@@ -41,9 +41,9 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 A collection of my solutions to various coding challenges, demonstrating problem-solving skills and proficiency in different programming languages.
 
 - **Advent of Code (2023)**  
-    [GitHub Repository](httpss://github.com/yourusername/aoc2023) – Solutions in Python and Rust.
+    [GitHub Repository](https://github.com/maxrenke?tab=repositories&q=advent&type&language&sort) – Solutions in Python and Rust.
 - **LeetCode**  
-    [GitHub Repository](httpss://github.com/maxrenke/leetcode) – A variety of solutions to LeetCode problems.
+    [GitHub Repository](https://github.com/maxrenke/leetcode) – A variety of solutions to LeetCode problems.
 
 
 
