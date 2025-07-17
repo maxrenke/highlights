@@ -29,14 +29,20 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 
 ---
 
+## 🏆 CTF Competitions
+
+- Participated in the [Season V, US Cyber Open CTF](https://badgr.com/public/assertions/Uw4ACvcgT72QwxMcXb-7Mw).
+
+---
+
 ## 🏆 Coding Practice Challenges
 
 A collection of my solutions to various coding challenges, demonstrating problem-solving skills and proficiency in different programming languages.
 
 - **Advent of Code (2023)**  
-    [GitHub Repository](https://github.com/yourusername/aoc2023) – Solutions in Python and Rust.
+    [GitHub Repository](httpss://github.com/yourusername/aoc2023) – Solutions in Python and Rust.
 - **LeetCode**  
-    [GitHub Repository](https://github.com/maxrenke/leetcode) – A variety of solutions to LeetCode problems.
+    [GitHub Repository](httpss://github.com/maxrenke/leetcode) – A variety of solutions to LeetCode problems.
 
 
 
