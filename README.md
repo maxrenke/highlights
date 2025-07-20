@@ -32,6 +32,7 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 ## 🏆 CTF Competitions
 
 - Participated in the [Season V, US Cyber Open CTF](https://badgr.com/public/assertions/Uw4ACvcgT72QwxMcXb-7Mw).
+- Participated in [DownUnderCTF 2025](ductf-maxrenke-certificate.png).
 - Write-ups for various CTF challenges can be found [here](https://github.com/maxrenke/ctf_writeups).
 
 ---
