@@ -18,6 +18,9 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 
 ## 🚀 Current Projects
 
+- **gallerydllm (https://github.com/maxrenke/gallerydllm)**  
+    A command-line utility that leverages AI to convert natural language instructions into `gallery-dl` commands, simplifying the process of downloading images and media from various sources.
+
 - **ytdlpllm (https://github.com/maxrenke/ytdlpllm)**  
     A command-line tool that downloads YouTube videos and generates concise summaries using large language models. It streamlines content consumption by providing quick insights from long-form videos.
 
