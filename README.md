@@ -24,6 +24,12 @@ Welcome! Here you'll find a curated list of my professional highlights, includin
 - **ytdlpllm (https://github.com/maxrenke/ytdlpllm)**  
     A command-line tool that downloads YouTube videos and generates concise summaries using large language models. It streamlines content consumption by providing quick insights from long-form videos.
 
+- **Cafe Chill Downloader (https://github.com/maxrenke/cafe-chill)**  
+    A Python script that automatically downloads and combines C89.5's "Cafe Chill" show segments into a seamless MP3 file for offline listening. Perfect for relaxation and background music while coding.
+
+- **Gaming Optimization (https://github.com/maxrenke/gaming-optimization)**  
+    A project focused on optimizing gaming performance through intelligent system adjustments and configurations.
+
 - **Twitch Viewer (https://github.com/maxrenke/twitch_viewer)**  
     A Python script that retrieves your currently followed Twitch channels using the Twitch API, then allows you to select and play live streams directly in VLC Media Player via Streamlink. This tool streamlines the process of browsing and watching your favorite Twitch channels from the command line.
 
